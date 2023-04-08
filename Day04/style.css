@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: tahoma;
+}
+
+div {
+  background-color: #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  background-color: #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  background-color: peru;
+}
+button {
+  cursor: pointer;
+  margin: 10px;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: orange;
+}
+
+input[type="text"] {
+  display: block;
+  width: 170px;
+  outline: 0;
+  border-radius: 5px;
+  border: none;
+}
+
+button#styleBtn {
+  background-color: #2e2d2d;
+  color: #ddd;
+}
+p.content {
+  font-size: 10px;
+}
+
+.jsClass {
+  background-color: #696a9d;
+  padding: 20px;
+}
+
+img {
+  width: 300px;
+  object-fit: cover;
+}
